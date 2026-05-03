@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# 👋 欢迎来到我的科研笔记主页
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 📌 个人研究方向
 
-## Commands
+**大方向**：数据分析与智能计算
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**核心领域**：联邦学习 | 信用风险预测 | 金融数据合规 | 隐私保护
 
-## Project layout
+**常用工具**：Python / 机器学习 / 深度学习
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 📂 笔记分类（快速导航）
+
+* [01\_联邦学习基础](./01_联邦学习基础/)
+* [02\_信用风险](./02_信用风险/)
+* [03\_Python编程问题](./03_Python编程问题/)
+* [04\_文献研读笔记](./04_文献研读笔记/)
+
+## ⚡ 网站使用说明
+
+1. 右上角搜索框：输入关键词（FedAvg/信用风险/Python）快速查笔记
+2. 左侧目录：自动生成章节导航，翻阅方便
+3. 支持深色/浅色模式切换（右上角太阳/月亮图标）
+4. 所有笔记支持代码高亮、LaTeX数学公式
+
+## 🎯 目标
+
+记录科研学习过程，解决联邦学习+信用风险理论问题，持续更新
+

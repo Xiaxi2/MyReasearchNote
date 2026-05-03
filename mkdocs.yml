@@ -1,14 +1,46 @@
-# 联邦学习+交叉信用风险 学习笔记
+# 网站基础信息
 site_name: 联邦学习与信用风险研究笔记
-site_description: 科研学习记录
+site_description: 联邦学习 | 信用风险 | 金融数据合规 | 安全机器学习 | 数据分析与智能计算
+site_author: Xiaxi2
+site_url: https://Xiaxi2.github.io/MyReasearchNote/
+
+# 核心主题美化
 theme:
   name: material  # 专业主题
   language: zh    # 中文界面
+  palette:
+    # 浅色模式
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: 切换深色模式
+    # 深色模式（护眼）
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: 切换浅色模式
   features:
-    - search      # 开启内置搜索（核心！）
-# 支持公式、代码高亮、目录
+    - search  # 搜索
+    - toc.integrate  # 侧边目录
+    - navigation.top  # 返回顶部
+    - navigation.expand  # 展开菜单
+
+# 插件（搜索）
+plugins:
+  - search
+
+# 科研必备功能（公式、代码高亮、表格）
 markdown_extensions:
-  - pymdownx.highlight
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.superfences
-  - toc
-  - pymdownx.arithmatex  # 支持LaTeX公式（写信用风险模型必备）
+  - pymdownx.arithmatex:  # LaTeX公式（写信用风险模型必备）
+      generic: true
+  - tables
+  - admonition  # 提示框（重点/笔记/警告）
+
+# 公式支持
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
