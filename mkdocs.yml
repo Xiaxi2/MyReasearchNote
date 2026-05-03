@@ -1,0 +1,9 @@
+site_name: 联邦学习+交叉信用风险学习笔记
+theme:
+  name: material  # 专业科研主题
+  language: zh    # 中文界面
+plugins:
+  - search        # 开启搜索功能
+markdown_extensions:
+  - codehilite    # Python代码高亮
+  - toc           # 自动生成目录
