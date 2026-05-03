@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/01_%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/FedAvg%E7%AE%97%E6%B3%95/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/01_%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%A8%AA%E5%90%91%E7%BA%B5%E5%90%91%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0%E5%8C%BA%E5%88%AB/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/02_%E4%BF%A1%E7%94%A8%E9%A3%8E%E9%99%A9/%E4%BF%A1%E7%94%A8%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/02_%E4%BF%A1%E7%94%A8%E9%A3%8E%E9%99%A9/%E8%81%94%E9%82%A6%E4%BF%A1%E8%B4%B7%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/03_Python%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98/Client-Server%E7%BB%93%E6%9E%84/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/03_Python%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98/PySyft%E6%A1%86%E6%9E%B6%E8%B0%83%E7%94%A8/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://Xiaxi2.github.io/MyReasearchNote/04_%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E8%81%94%E9%82%A6%E4%BF%A1%E7%94%A8%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/</loc>
+         <lastmod>2026-05-03</lastmod>
+    </url>
 </urlset>
